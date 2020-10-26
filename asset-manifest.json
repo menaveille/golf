@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/golf/static/css/main.c75447ba.chunk.css",
+    "main.js": "/golf/static/js/main.21f8bb23.chunk.js",
+    "main.js.map": "/golf/static/js/main.21f8bb23.chunk.js.map",
+    "runtime-main.js": "/golf/static/js/runtime-main.81cf42d5.js",
+    "runtime-main.js.map": "/golf/static/js/runtime-main.81cf42d5.js.map",
+    "static/js/2.aa6482dc.chunk.js": "/golf/static/js/2.aa6482dc.chunk.js",
+    "static/js/2.aa6482dc.chunk.js.map": "/golf/static/js/2.aa6482dc.chunk.js.map",
+    "index.html": "/golf/index.html",
+    "precache-manifest.6b5373d45a069dc839310d3ff656deae.js": "/golf/precache-manifest.6b5373d45a069dc839310d3ff656deae.js",
+    "service-worker.js": "/golf/service-worker.js",
+    "static/css/main.c75447ba.chunk.css.map": "/golf/static/css/main.c75447ba.chunk.css.map",
+    "static/js/2.aa6482dc.chunk.js.LICENSE.txt": "/golf/static/js/2.aa6482dc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/golf/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/gift.svg": "/golf/static/media/gift.d642a768.svg",
+    "static/media/logo.svg": "/golf/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/golf/static/media/manOnTable.52be3144.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81cf42d5.js",
+    "static/js/2.aa6482dc.chunk.js",
+    "static/css/main.c75447ba.chunk.css",
+    "static/js/main.21f8bb23.chunk.js"
+  ]
+}
